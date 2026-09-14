@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw data (large / redistributable from original source instead)
+DataSets/
+*.txt
+*.tsv
+
+# Large processed files - uncomment if any exceed GitHub's 100MB limit
+# all_combined_dna.csv
+# all_combined_dna_cleaned.csv
+# train_balanced.csv
