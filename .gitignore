@@ -14,10 +14,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Raw data (large / redistributable from original source instead)
-DataSets/
-*.txt
-*.tsv
 
 # Large processed files - uncomment if any exceed GitHub's 100MB limit
 # all_combined_dna.csv
