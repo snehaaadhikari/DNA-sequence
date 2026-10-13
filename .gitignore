@@ -1,21 +1,7 @@
-# Virtual environment
 .venv/
-venv/
-env/
-
-# Python cache
+.venv-1/
 __pycache__/
+*.pt
 *.pyc
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-
-# Large processed files - uncomment if any exceed GitHub's 100MB limit
-# all_combined_dna.csv
-# all_combined_dna_cleaned.csv
-# train_balanced.csv
+test_*.csv
+*_log.csv
