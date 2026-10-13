@@ -5,3 +5,9 @@ __pycache__/
 *.pyc
 test_*.csv
 *_log.csv
+
+
+DataSets/chimpanzee_cds.fna
+DataSets/human_cds.fna
+EDA_old_backup.ipynb
+tempCodeRunnerFile.ipynb
